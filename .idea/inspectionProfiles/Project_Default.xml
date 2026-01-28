@@ -1,0 +1,88 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="colorama" />
+          <option value="comtypes" />
+          <option value="distro" />
+          <option value="google-ai-generativelanguage" />
+          <option value="google-api-core" />
+          <option value="google-api-python-client" />
+          <option value="google-auth" />
+          <option value="google-auth-httplib2" />
+          <option value="google-generativeai" />
+          <option value="googleapis-common-protos" />
+          <option value="grpcio" />
+          <option value="grpcio-status" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httplib2" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="jiter" />
+          <option value="MouseInfo" />
+          <option value="openai" />
+          <option value="proto-plus" />
+          <option value="protobuf" />
+          <option value="psutil" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="PyAudio" />
+          <option value="PyAutoGUI" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pygame" />
+          <option value="PyGetWindow" />
+          <option value="PyMsgBox" />
+          <option value="pyparsing" />
+          <option value="pyperclip" />
+          <option value="pypiwin32" />
+          <option value="PyRect" />
+          <option value="PyScreeze" />
+          <option value="pyttsx3" />
+          <option value="pytweening" />
+          <option value="pywin32" />
+          <option value="requests" />
+          <option value="rsa" />
+          <option value="screen_brightness_control" />
+          <option value="sniffio" />
+          <option value="SpeechRecognition" />
+          <option value="tqdm" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="uritemplate" />
+          <option value="urllib3" />
+          <option value="WMI" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pyautogui.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
